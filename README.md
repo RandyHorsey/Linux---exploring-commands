@@ -14,9 +14,9 @@ Using the Linux command line to find out more information about specific command
 
  <h4>
 Learning more about specific commands: </h4>
-<img src="https://imgur.com/ElO4DBO.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/31KOFMJ.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Finding the description of a particular command:  </h4>
-<img src="https://imgur.com/mrNKSdc.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/PpixYsB.png" height="65%" width="65%" alt="Security Audit"/>
 <h4>Using apropos to find a command:  </h4>
-<img src="https://imgur.com/FRitvuX.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/TMCtycA.png" height="65%" width="65%" alt="Security Audit"/>
